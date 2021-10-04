@@ -1,11 +1,3 @@
-/*
-seems like working good.
-
-* in divide we have to handle remainder when giving answer in binary format. for that wants to understand floating point binary.
-* give a nice design.
-*/
-
-
 //take input
 function getInputs(input, select) {
 
